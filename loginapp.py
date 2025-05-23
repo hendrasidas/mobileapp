@@ -329,4 +329,3 @@ class DonationApp(App):
 
 if __name__ == '__main__':
     DonationApp().run()
-Made with
